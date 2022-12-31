@@ -28,7 +28,6 @@ h2 {
 input[type='range'] {
     width: 300px;
     margin: 18px 0;
-    -webkit-appearance: none;
     background-color: transparent;
 }
 
@@ -79,7 +78,6 @@ input[type='range']::-moz-range-track {
 }
 
 input[type='range']::-moz-range-thumb  {
-    -webkit-appearance: none;
     height: 24px;
     width: 24px;
     background: white;
@@ -99,7 +97,6 @@ input[type='range']::-ms-track {
 }
 
 input[type='range']::-ms-thumb  {
-    -webkit-appearance: none;
     height: 24px;
     width: 24px;
     background: white;
